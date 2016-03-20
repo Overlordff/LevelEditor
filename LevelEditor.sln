@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor", "LevelEditor\LevelEditor\LevelEditor.csproj", "{700FCE9A-1A5D-4FCF-A8B1-4DF8CD6ACBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditorContent", "LevelEditor\LevelEditorContent\LevelEditorContent.contentproj", "{140827BB-AEE1-484D-AD06-562C5042BBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LESL", "LESL\LESL.csproj", "{CD6A66BA-8454-45A5-8F0B-8339737E5655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700FCE9A-1A5D-4FCF-A8B1-4DF8CD6ACBD9}.Debug|x86.ActiveCfg = Debug|x86
+		{700FCE9A-1A5D-4FCF-A8B1-4DF8CD6ACBD9}.Debug|x86.Build.0 = Debug|x86
+		{700FCE9A-1A5D-4FCF-A8B1-4DF8CD6ACBD9}.Release|x86.ActiveCfg = Release|x86
+		{700FCE9A-1A5D-4FCF-A8B1-4DF8CD6ACBD9}.Release|x86.Build.0 = Release|x86
+		{140827BB-AEE1-484D-AD06-562C5042BBE6}.Debug|x86.ActiveCfg = Debug|x86
+		{140827BB-AEE1-484D-AD06-562C5042BBE6}.Release|x86.ActiveCfg = Release|x86
+		{CD6A66BA-8454-45A5-8F0B-8339737E5655}.Debug|x86.ActiveCfg = Release|x86
+		{CD6A66BA-8454-45A5-8F0B-8339737E5655}.Debug|x86.Build.0 = Release|x86
+		{CD6A66BA-8454-45A5-8F0B-8339737E5655}.Release|x86.ActiveCfg = Release|x86
+		{CD6A66BA-8454-45A5-8F0B-8339737E5655}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
