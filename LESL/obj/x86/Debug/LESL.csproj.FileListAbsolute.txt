@@ -1,0 +1,7 @@
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LESL\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LESL\bin\x86\Debug\LESL.dll
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LESL\bin\x86\Debug\LESL.pdb
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LESL\bin\x86\Debug\Graph.dll
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LESL\bin\x86\Debug\Graph.pdb
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LESL\obj\x86\Debug\LESL.dll
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LESL\obj\x86\Debug\LESL.pdb

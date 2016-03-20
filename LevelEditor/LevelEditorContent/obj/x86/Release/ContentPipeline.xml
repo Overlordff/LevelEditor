@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mesh.png</Source>
+      <Name>mesh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\mesh.xnb</Output>
+      <Time>2015-07-13T17:00:58.0305755+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Dust.png</Source>
+      <Name>Tiles\Dust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Dust.xnb</Output>
+      <Time>2015-07-13T16:44:16.0916003+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Snow.png</Source>
+      <Name>Tiles\Snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Snow.xnb</Output>
+      <Time>2015-07-13T16:44:16.0916003+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel.png</Source>
+      <Name>Panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Panel.xnb</Output>
+      <Time>2015-07-26T00:46:42.9017437+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\DarkGrass.png</Source>
+      <Name>Tiles\DarkGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\DarkGrass.xnb</Output>
+      <Time>2015-07-16T21:51:22.7365548+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Arrow.png</Source>
+      <Name>Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Arrow.xnb</Output>
+      <Time>2015-07-16T23:06:26.8618738+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Slider\Slider.png</Source>
+      <Name>Slider\Slider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Slider\Slider.xnb</Output>
+      <Time>2015-07-20T21:59:14.8649063+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Slider\Slider_.png</Source>
+      <Name>Slider\Slider_</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Slider\Slider_.xnb</Output>
+      <Time>2015-07-20T22:23:17.8236226+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\None.png</Source>
+      <Name>Tiles\None</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\None.xnb</Output>
+      <Time>2015-07-21T23:46:07.7306119+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cell.png</Source>
+      <Name>Cell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Cell.xnb</Output>
+      <Time>2015-07-31T21:27:01.6633383+05:00</Time>
+    </Item>
+    <Item>
+      <Source>minimapSceneRect.png</Source>
+      <Name>minimapSceneRect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\minimapSceneRect.xnb</Output>
+      <Time>2015-05-24T13:51:46+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\ClearButton.png</Source>
+      <Name>Buttons\ClearButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\ClearButton.xnb</Output>
+      <Time>2015-07-27T15:42:03.3070164+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\SaveButton.png</Source>
+      <Name>Buttons\SaveButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\SaveButton.xnb</Output>
+      <Time>2015-07-27T14:22:38.6936199+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\FillButton.png</Source>
+      <Name>Buttons\FillButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\FillButton.xnb</Output>
+      <Time>2015-07-27T14:22:38.7036199+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water2.png</Source>
+      <Name>Tiles\Water2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water2.xnb</Output>
+      <Time>2015-07-28T16:12:53.9828306+05:00</Time>
+    </Item>
+    <Item>
+      <Source>TextFont.spritefont</Source>
+      <Name>TextFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\TextFont.xnb</Output>
+      <Time>2015-07-14T14:54:57.6362862+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\LoadButton.png</Source>
+      <Name>Buttons\LoadButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\LoadButton.xnb</Output>
+      <Time>2015-07-31T16:57:02.0140028+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\ExitButton.png</Source>
+      <Name>Buttons\ExitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\ExitButton.xnb</Output>
+      <Time>2015-07-31T18:15:03.2416792+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Grass1.png</Source>
+      <Name>Tiles\Grass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Grass1.xnb</Output>
+      <Time>2015-07-13T16:44:16.0916003+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water1a.png</Source>
+      <Name>Tiles\Water1a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water1a.xnb</Output>
+      <Time>2015-07-28T16:06:01.8426485+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water3a.png</Source>
+      <Name>Tiles\Water3a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water3a.xnb</Output>
+      <Time>2015-07-28T16:21:27.9843103+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Grass2.png</Source>
+      <Name>Tiles\Grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Grass2.xnb</Output>
+      <Time>2015-08-01T00:41:01.5661871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Sand1.png</Source>
+      <Name>Tiles\Sand1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Sand1.xnb</Output>
+      <Time>2015-08-01T00:41:01.5661871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Sand2.png</Source>
+      <Name>Tiles\Sand2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Sand2.xnb</Output>
+      <Time>2015-08-01T00:41:01.5661871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Sand3.png</Source>
+      <Name>Tiles\Sand3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Sand3.xnb</Output>
+      <Time>2015-08-01T00:41:01.5661871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water1b.png</Source>
+      <Name>Tiles\Water1b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water1b.xnb</Output>
+      <Time>2015-08-01T00:41:01.5761871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water1d.png</Source>
+      <Name>Tiles\Water1d</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water1d.xnb</Output>
+      <Time>2015-08-01T00:41:01.5761871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water1c.png</Source>
+      <Name>Tiles\Water1c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water1c.xnb</Output>
+      <Time>2015-08-01T00:41:01.5761871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water3b.png</Source>
+      <Name>Tiles\Water3b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water3b.xnb</Output>
+      <Time>2015-08-01T00:41:01.5761871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Water3c.png</Source>
+      <Name>Tiles\Water3c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Water3c.xnb</Output>
+      <Time>2015-08-01T00:41:01.5761871+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ford1.png</Source>
+      <Name>Tiles\Ford1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Ford1.xnb</Output>
+      <Time>2015-08-04T18:23:41.258981+05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGrounds\Frame1.png</Source>
+      <Name>BackGrounds\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\BackGrounds\Frame1.xnb</Output>
+      <Time>2015-08-05T21:09:51.7363876+05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGrounds\Frame2.png</Source>
+      <Name>BackGrounds\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\BackGrounds\Frame2.xnb</Output>
+      <Time>2015-08-05T21:09:51.7793878+05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGrounds\Frame3.png</Source>
+      <Name>BackGrounds\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\BackGrounds\Frame3.xnb</Output>
+      <Time>2015-08-05T21:09:51.8103879+05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGrounds\Frame4.png</Source>
+      <Name>BackGrounds\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\BackGrounds\Frame4.xnb</Output>
+      <Time>2015-08-05T21:09:51.8623881+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Grass3.png</Source>
+      <Name>Tiles\Grass3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Grass3.xnb</Output>
+      <Time>2015-08-07T02:04:45.1033973+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\GrassPath.png</Source>
+      <Name>Tiles\GrassPath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\GrassPath.xnb</Output>
+      <Time>2015-08-07T02:04:45.1033973+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Road1.png</Source>
+      <Name>Tiles\Road1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Road1.xnb</Output>
+      <Time>2015-08-07T02:04:45.1033973+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Road2.png</Source>
+      <Name>Tiles\Road2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Road2.xnb</Output>
+      <Time>2015-08-07T02:04:45.1133973+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Sand4.png</Source>
+      <Name>Tiles\Sand4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Tiles\Sand4.xnb</Output>
+      <Time>2015-08-07T02:06:07.4349495+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\MainMenu\StartEditButton.png</Source>
+      <Name>Buttons\MainMenu\StartEditButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\MainMenu\StartEditButton.xnb</Output>
+      <Time>2015-08-07T03:02:25.4396372+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\MainMenu\ExitButton.png</Source>
+      <Name>Buttons\MainMenu\ExitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\MainMenu\ExitButton.xnb</Output>
+      <Time>2015-08-07T03:05:12.7695536+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\Panel1.png</Source>
+      <Name>Panels\Panel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Panels\Panel1.xnb</Output>
+      <Time>2015-08-09T22:53:13.3123825+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\MainMenu\CancelButton.png</Source>
+      <Name>Buttons\MainMenu\CancelButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\MainMenu\CancelButton.xnb</Output>
+      <Time>2015-08-07T19:55:22.7456796+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\MainMenu\CreateButton.png</Source>
+      <Name>Buttons\MainMenu\CreateButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\MainMenu\CreateButton.xnb</Output>
+      <Time>2015-08-07T19:55:22.7456796+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panels\Panel2.png</Source>
+      <Name>Panels\Panel2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Panels\Panel2.xnb</Output>
+      <Time>2015-08-11T21:11:01.8752722+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textboxes\Textbox1.png</Source>
+      <Name>Textboxes\Textbox1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Textboxes\Textbox1.xnb</Output>
+      <Time>2015-08-09T23:02:08.1021513+05:00</Time>
+    </Item>
+    <Item>
+      <Source>SegoeUI.spritefont</Source>
+      <Name>SegoeUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\SegoeUI.xnb</Output>
+      <Time>2015-08-10T18:08:21.6318168+05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\OkButton.png</Source>
+      <Name>Buttons\OkButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\Buttons\OkButton.xnb</Output>
+      <Time>2015-08-11T21:58:50.373909+05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditorContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditor\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-09T21:16:39.4348286+05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

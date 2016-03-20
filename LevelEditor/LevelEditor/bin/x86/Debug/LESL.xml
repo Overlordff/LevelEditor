@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LESL</name>
+    </assembly>
+    <members>
+        <member name="T:LESL.Global">
+            <summary>
+            Global
+            </summary>
+        </member>
+        <member name="F:LESL.Global.MAX_MAPS">
+            <summary>
+            Максимально допустимое кол-во карт
+            </summary>
+        </member>
+        <member name="F:LESL.Global.MAP_DIR">
+            <summary>
+            Директория хранения карт
+            </summary>
+        </member>
+        <member name="F:LESL.Global.MAP_EXT">
+            <summary>
+            Расширение файла карты
+            </summary>
+        </member>
+        <member name="T:LESL.LELoader">
+            <summary>
+            Класс загрузчик
+            </summary>
+        </member>
+        <member name="M:LESL.LELoader.Load(LESL.LoadModes,LESL.MapInfo@)">
+            <summary>
+            Загружает карту из директории MAP_DIR, используя указанный мод загрузки.
+            Возвращает код завершения:
+            0 - успех.
+            1 - Директория не найдена.
+            2 - Операция не может быть совершена, т.к. в директории нет файлов карты нужного формата.
+            3 - Файл карты не найден.
+            4 - Встречен неопределенный мод загрузки.
+            </summary>
+            <param name="mode">Мод загрузки</param>
+            <param name="result">Записывает карту в указанную переменную</param>
+        </member>
+        <member name="M:LESL.LELoader.Load(System.String,LESL.MapInfo@)">
+            <summary>
+            Загружает карту, расположенную по указанному пути
+            Возвращает код завершения:
+            0 - успех.
+            3 - Файл карты не найден.
+            </summary>
+            <param name="fname">Путь к карте</param>
+            <param name="result">Записывает карту в указанную переменную</param>
+        </member>
+    </members>
+</doc>

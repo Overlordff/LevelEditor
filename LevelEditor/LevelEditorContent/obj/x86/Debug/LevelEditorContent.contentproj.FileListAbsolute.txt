@@ -1,0 +1,1 @@
+C:\Users\Bol\Desktop\Мои работы\XNA Framework + C#\LevelEditor\LevelEditor\LevelEditorContent\obj\x86\Debug\LevelEditorContent.contentprojResolveAssemblyReference.cache
